@@ -1,0 +1,1 @@
+https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/15-design-semantic-model-scale.html
